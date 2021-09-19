@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MultiScreenApp</string>
+    <string name="Button">CLICK</string>
+    <string name="Name">NAME</string>
+</resources>
